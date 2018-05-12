@@ -1,0 +1,35 @@
+_repo: Madonna-Mary_44080
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44080-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Oliphant, Mrs. (Margaret)
+    aliases:
+    - Oliphant, Margaret Oliphant Wilson
+    - Olyphant, Mrs.
+    - Mrs. (Margaret) Oliphant
+    - Oliphant, M. O. W. (Margaret Oliphant Wilson)
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '963'
+    url: http://www.gutenberg.org/2009/agents/963
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
+description: ''
+gutenberg_issued: '2013-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Widows -- Fiction'
+title: Madonna Mary
+url: http://www.gutenberg.org/ebooks/44080
